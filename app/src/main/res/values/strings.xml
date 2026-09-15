@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GX Tools ID</string>
+    <string name="title">GX_TOOLS_ID</string>
+    <string name="subtitle">Tracker Scanner · v1.0</string>
+    <string name="status_armed">ARMED</string>
+    <string name="stat_apps">APPS SCANNED</string>
+    <string name="stat_trackers">TRACKERS FOUND</string>
+    <string name="copy_all">COPY ALL</string>
+    <string name="copy">Copy</string>
+    <string name="close">Close</string>
+</resources>
